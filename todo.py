@@ -5,7 +5,7 @@ from datetime import datetime
 import calendar
 import typer
 from colorama import Fore, Style, init
-
+#for windows
 init(autoreset=True)
 
 app = typer.Typer()
